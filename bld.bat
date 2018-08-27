@@ -1,1 +1,1 @@
-pyinstaller -y --onefile CopyBuf.py
+pyinstaller -y -w --onefile CopyBuf.py
