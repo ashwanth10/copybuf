@@ -6,3 +6,5 @@
 **pip install pyinstaller pyperclip**
 
 and run **bld.bat**
+
+##### change from branch.
